@@ -1,5 +1,5 @@
 # E-commerce Data Analysis (SQL + Python)
-prepared by Stanisław Kamiński
+Author: Stanisław Kamiński
 ## Overview
 This Project includes building a synthetic e-commerce database used to identify business insights such as revenue trends,
 customer behavior and most popular products. 
