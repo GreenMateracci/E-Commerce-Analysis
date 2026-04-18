@@ -38,6 +38,6 @@ The analysis answers the following:
 Visualizations are provided in /images folder
 
 ## How to run:
-- Clone the repository data
-- Run the Python script or Jupyter Notebook file to generate data
+1. Open Jupyter Notebook file in /notebooks
+2. Run the Python script in /scripts to generate data
   (SQL queries are included in the Python file. Alternatively there are premade database files that can be used to execute queries)
